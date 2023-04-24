@@ -1,0 +1,4 @@
+
+
+copy con exit
+exit
