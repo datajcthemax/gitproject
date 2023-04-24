@@ -1,4 +1,1 @@
 
-
-copy con exit
-exit
